@@ -1,4 +1,4 @@
-<svg version="1.1" id="OpenSpeedtest"
+<svg version="1.1" id="TestVitezabyYO8AIV"
 	xmlns="http://www.w3.org/2000/svg"
 	xmlns:xlink="http://www.w3.org/1999/xlink"
     class="openSpeedtestApp">
@@ -227,7 +227,7 @@
 		</a>
 	</symbol>
 	<symbol class="Your-IP" viewBox="0 0 300 299.12">
-		<text id="YourIP" transform="translate(140 228) scale(.8 .8)">SpeedTest by OpenSpeedTest™️</text>
+		<text id="YourIP" transform="translate(140 228) scale(.8 .8)">TestViteza by YO8AIV™️</text>
 	</symbol>
 	<symbol id="light" viewBox="0 0 512 512">
 		<g>
@@ -385,7 +385,7 @@
 				</g>
 			</svg>
 			<svg class="Mobile" viewBox="0 0 295.9 363.3">
-				<title id="title1">HTML5 Network Performance Estimation Tool. by OpenSpeedTest™</title>
+				<title id="title1">Utilitar Test viteza retea in HTML5 by YO8AIV™</title>
 				<g id="UI-Mob">
 					<use id="mainGaugebg-Mob" class="main-Gaugebg" xlink:href="#mainGaugebg" x="11.18" y="12" width="273.94" height="245.39"></use>
 					<use id="mainGaugeBlue-Mob" class="main-GaugeBlue" xlink:href="#mainGaugeBlue" x="11.18" y="12" width="273.94" height="245.39"></use>
